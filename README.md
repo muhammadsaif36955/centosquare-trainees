@@ -1,0 +1,2 @@
+# centosquare-trainees
+webpage
